@@ -1,2 +1,2 @@
 # portal
-A Decentralized Distribution of the Compuceeds/Cryptoceeds Cryptocurency
+A Retail Distribution Network for Various Cryptocurencies
